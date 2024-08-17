@@ -7,12 +7,12 @@
 
 
 :root {
-    --cor-de-fundo: #EBECEE;
+    --cor-de-fundo: #084b9b;
     --branco: #ffffff;
     --laranja: #fc140c;
     --azul: #084b9b;
-    --fonte-principal: "Horizon";
-    --azul: #084b9b;
+    --fonte-principal: "popins";
+    --azul: #000000;
     --fonte-secundario: "Josefin Sans";
     --preto: #000000;
 }
